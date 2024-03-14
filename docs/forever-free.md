@@ -21,3 +21,4 @@ These limits are not in place on the Custom Domain plans, so if you need a stabl
 ## Give your free domain a longer life
 
 If you use a free domain but want the domain name to last longer sign-up at https://admin.localhost.run/ and [add your SSH key](faq.md#generating-an-ssh-key).
+Thanks
